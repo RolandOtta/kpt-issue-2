@@ -5,5 +5,5 @@ metadata: # kpt-merge: /setters
   annotations:
     config.kubernetes.io/local-config: true
 data:
-  var1: var1
+  var1: foo-bar
   var2: foo2-bar2
