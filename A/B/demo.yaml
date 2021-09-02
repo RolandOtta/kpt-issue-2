@@ -1,0 +1,5 @@
+apiVersion: compute.cnrm.cloud.google.com/v1beta1
+kind: Test 
+metadata: 
+  namespace: networking
+  name: undefined # kpt-set: vpngw-${var1}-${var2}
